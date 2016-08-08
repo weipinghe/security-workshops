@@ -315,3 +315,5 @@ select * from sample_07;
 
 If you see ssl certificate error, refer
 https://community.hortonworks.com/questions/316/hive-jdbc-via-knox-and-configuring-hive-in-ranger.html
+
+https://community.hortonworks.com/questions/16887/beeline-connect-via-knox-ssl-issue.html
