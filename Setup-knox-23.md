@@ -312,3 +312,6 @@ select * from sample_07;
 ![Image](../master/screenshots/ranger-knox-hive-allowed.png?raw=true)  
 
 - With this we have shown how HiveServer2 can transport data over HTTPS using Knox for existing users defined in enterprise LDAP, without them having to request kerberos ticket. Also authorization and audit of such transactions can be done via Ranger
+
+If you see ssl certificate error, refer
+https://community.hortonworks.com/questions/316/hive-jdbc-via-knox-and-configuring-hive-in-ranger.html
